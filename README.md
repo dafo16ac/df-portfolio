@@ -4,7 +4,7 @@ I am Davide, graduate in Finance with a background in Philosophy. Due to my pass
 
 Here is my *Portfolio* where I provide an overview of and respective links to my projects.
 
-It would be my pleasure to get in contact with you on LinkedIn where we can further discuss ideas and implementation techniques. Feel free to reach out to me at [Davide Fogarolo](https://www.linkedin.com/in/davide-fogarolo/).
+It would be my pleasure to get in contact with you where we can further discuss ideas and implementation techniques. Feel free to reach out to me on LinkedIn at [Davide Fogarolo](https://www.linkedin.com/in/davide-fogarolo/).
 
 ## Projects Overview
 | Title | Repository | Topics | Latest Update
