@@ -9,7 +9,7 @@ It would be my pleasure to get in contact with you where we can further discuss 
 ## Projects Overview
 | Title | Repository | Topics | Latest Update
 | ------ | ------ | ----- | ------
-| Clustering of customers | TBA | - Data Collection and Preprocessing <br> - Clustering | TBA
+| Clustering of customers | TBD | - Data Collection and Preprocessing <br> - Clustering | TBA
 | Market Segmentation Dashboard | [business-intelligence-df-2.2](https://github.com/dafo16ac/business-intelligence-df-2.2) | - Web application production deployment <br> - PostgreSQL engine <br> - Heroku <br> - GUIs <br> | 20 August 2020
-| Forecasting Luggage Carousel waiting time | TBA | - Data Collection and Preprocessing <br> | TBA
-| Live Tweets on Apache Kafka | TBA | - Apache Kafka | TBA
+| Forecasting Luggage Carousel waiting time | TBD | - Data Collection and Preprocessing <br> | TBA
+| Live Tweets on Apache Kafka | TBD | - Apache Kafka | TBA
