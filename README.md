@@ -7,9 +7,9 @@ Here is my *Portfolio* where I provide an overview of and respective links to my
 It would be my pleasure to get in contact with you so that we can further discuss ideas and implementation techniques. Feel free to reach out to me on LinkedIn at [Davide Fogarolo](https://www.linkedin.com/in/davide-fogarolo/).
 
 ## Projects Overview
-| Title | Repository | Topics | Latest Update
+| Title | Repository | Topics | Start Date | Latest Update
 | ------ | ------ | ----- | ------
-| Clustering of customers | TBD | - Data Collection and Preprocessing <br> - Machine Learning: Clustering | TBA
-| Market Segmentation Dashboard | [business-intelligence-df-2.2](https://github.com/dafo16ac/business-intelligence-df-2.2) | - Web application production deployment <br> - PostgreSQL engine <br> - Heroku <br> - GUIs <br> | 20 August 2020
-| Forecasting Luggage Carousel waiting time | TBD | - Data Collection and Preprocessing <br> - Machine Learning: XGBoost regression | TBA
-| Live Tweets on Apache Kafka | TBD | - Apache Kafka | TBA
+| Clustering of customers | TBD | - Data Collection and Preprocessing <br> - Machine Learning: Clustering | | 14 May 2019
+| Market Segmentation Dashboard | [business-intelligence-df-2.2](https://github.com/dafo16ac/business-intelligence-df-2.2) | - Web application production deployment <br> - PostgreSQL engine <br> - Heroku <br> - GUIs <br> | | 20 August 2020
+| Forecasting Luggage Carousel waiting time | TBD | - Data Collection and Preprocessing <br> - Machine Learning: XGBoost regression | | 12 January 2019
+| Live Tweets on Apache Kafka | TBD | - Apache Kafka | | 15 August 2020
