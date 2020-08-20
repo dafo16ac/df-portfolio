@@ -5,4 +5,4 @@ This is my Portfolio where I provide an overview and respective links of my proj
 
 | Title | Repository | Topics | Latest Update
 | ------ | ------ | ----- | ------
-| Market Segmentation Dashboard | [business-intelligence-df-2.2](https://github.com/dafo16ac/business-intelligence-df-2.2) | 
+| Market Segmentation Dashboard | [business-intelligence-df-2.2](https://github.com/dafo16ac/business-intelligence-df-2.2) | | 20 August 2020
