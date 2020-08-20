@@ -8,8 +8,8 @@ It would be my pleasure to get in contact with you so that we can further discus
 
 ## Projects Overview
 | Title | Repository | Topics | Start Date | Latest Update
-| ------ | ------ | ----- | ------
-| Clustering of customers | TBD | - Data Collection and Preprocessing <br> - Machine Learning: Clustering | | 14 May 2019
-| Market Segmentation Dashboard | [business-intelligence-df-2.2](https://github.com/dafo16ac/business-intelligence-df-2.2) | - Web application production deployment <br> - PostgreSQL engine <br> - Heroku <br> - GUIs <br> | | 20 August 2020
-| Forecasting Luggage Carousel waiting time | TBD | - Data Collection and Preprocessing <br> - Machine Learning: XGBoost regression | | 12 January 2019
-| Live Tweets on Apache Kafka | TBD | - Apache Kafka | | 15 August 2020
+| ------ | ------ | ----- | ------ | ------
+| Clustering of customers | TBD | - Data Collection and Preprocessing <br> - Machine Learning: Clustering | | 14-05-2019
+| Market Segmentation Dashboard | [business-intelligence-df-2.2](https://github.com/dafo16ac/business-intelligence-df-2.2) | - Web application production deployment <br> - PostgreSQL engine <br> - Heroku <br> - GUIs <br> | | 20-08-2020
+| Forecasting Luggage Carousel waiting time | TBD | - Data Collection and Preprocessing <br> - Machine Learning: XGBoost regression | | 12-01-2019
+| Live Tweets on Apache Kafka | TBD | - Apache Kafka | | 15-08-2020
