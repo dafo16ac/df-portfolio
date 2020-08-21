@@ -6,7 +6,7 @@ Lifelong learning has always been of the utmost importance to me. That is why I 
 
 Here is my *Portfolio* with an overview of and respective links to my projects in Data Science - Engineering.
 
-It would be my pleasure to get in contact with you so that we can further discuss ideas and implementation steps. 
+It would be my pleasure to get in contact with you to further discuss ideas and implementation steps. 
 
 Feel free to reach out to me on LinkedIn at [Davide Fogarolo](https://www.linkedin.com/in/davide-fogarolo/).
 
