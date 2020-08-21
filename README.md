@@ -2,9 +2,9 @@
 
 I am Davide, graduate in Finance with a background in Philosophy. 
 
-Lifelong learning is of the utmost importance, especially when it is based upon the right interpretation and presentation of the data.
+Lifelong learning is of the utmost importance, especially when it is based upon the most accurate interpretation and presentation of the data.
 
-Here is my *Portfolio* where I provide an overview of and respective links to my projects in Data Science-Engineering.
+Here is my *Portfolio* where I provide an overview of and respective links to my projects in Data Science - Engineering.
 
 It would be my pleasure to get in contact with you so that we can further discuss ideas and implementation steps. 
 
