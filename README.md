@@ -2,7 +2,7 @@
 
 I am Davide, graduate in Finance with a background in Philosophy. 
 
-Lifelong learning has always been of the utmost importance to me. That is why I have started to expand (always increasing) my knowledge and dexterity in providing the most accurate interpretation and presentation of the data.
+Lifelong learning has always been of the utmost importance to me. That is why I have started to expand (always increasing, never enough) my knowledge and dexterity in providing the most accurate interpretation and presentation of the data.
 
 Here is my *Portfolio* with an overview of and respective links to my projects in Data Science - Engineering.
 
