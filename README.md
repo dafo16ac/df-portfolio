@@ -1,6 +1,6 @@
 <h1 align="center"> Portfolio </h1>
 
-I am Davide, graduate in Finance with a background in Philosophy. I have worked as Junior Data Scientist in the Maritime Industry for 9 months.
+I am Davide, graduate in Finance with a background in Philosophy. I have worked as Junior Data Scientist in the Maritime Industry for almost a year now.
 
 Lifelong learning has always been of the utmost importance to me. That is why I have started to expand (always increasing, never enough) my knowledge and dexterity in providing the most accurate interpretation and presentation of data.
 
