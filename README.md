@@ -13,7 +13,7 @@ Feel free to reach out to me on LinkedIn at [Davide Fogarolo](https://www.linked
 ## Projects Overview
 | Title | Repository | Topics | Start Date | Latest Update | v.
 | ----- | ---------- | ------ | ---------- | ------------- | --
-| Market Segmentation with Spectral Clustering | [BI_Market_Segmentation_v1.0 - Interactive Link nbviewer (suggested)](https://nbviewer.jupyter.org/github/dafo16ac/BI_Market_Segmentation_v1.0/blob/main/BI_Market_Segmentation_Part1_v1.0.ipynb) | - Data Collection and Preprocessing <br> - Machine Learning: Clustering | 15-01-2019 | 05-01-2020 | 1.0.0
+| Market Segmentation with Spectral Clustering | [BI_Market_Segmentation_v1.0 - Interactions rendered in nbviewer (recommended)](https://nbviewer.jupyter.org/github/dafo16ac/BI_Market_Segmentation_v1.0/blob/main/BI_Market_Segmentation_Part1_v1.0.ipynb) | - Data Collection and Preprocessing <br> - Machine Learning: Clustering | 15-01-2019 | 05-01-2020 | 1.0.0
 | Market Segmentation Dashboard | [business-intelligence-df-2.2](https://github.com/dafo16ac/business-intelligence-df-2.2) | - Web application production deployment <br> - PostgreSQL engine <br> - Heroku <br> - Friendly GUIs <br> - Python, CSS| 01-02-2019 | 20-08-2020 | 2.2.0
 | Forecasting Luggage Carousel waiting time | TBD | - Data Preprocessing <br> - Machine Learning: XGBoost regression <br> | 28-12-2018 | 12-01-2019 | 0.1.0
 | Live Tweets on Apache Kafka | TBD | - Apache Kafka <br> - Java, Python | 29-07-2020 | 15-08-2020 | 0.1.0
