@@ -13,4 +13,4 @@ It would be my pleasure to get in contact with you to further discuss ideas and 
 | Market Segmentation Dashboard | [business-intelligence-df](https://github.com/dafo16ac/business-intelligence-df) | - Web application production deployment <br> - PostgreSQL engine <br> - Heroku <br> - Friendly GUIs <br> - Python, CSS| 01-02-2019 | 10-01-2021 | 2.2.1
 | Forecasting Luggage Carousel waiting time | TBD | - Data Preprocessing <br> - Machine Learning: XGBoost regression <br> | 28-12-2018 | 12-01-2019 | 0.1.0
 | Live Tweets on Apache Kafka | TBD | - Apache Kafka <br> - Java, Python | 29-07-2020 | 15-08-2020 | 0.1.0
-| Credit Rating | [Web application](https://credit-evaluation-df.herokuapp.com/) | - Data Preprocessing <br> - Machine Learning: linear regression, logistic regression  <br> - Production deployment of Machine Learning models | 05-07-2020 | 17-07-2020 | 0.1.0
+| Credit Rating | Web application: [link](https://credit-evaluation-df.herokuapp.com/) | - Data Preprocessing <br> - Machine Learning: linear regression, logistic regression  <br> - Production deployment of Machine Learning models | 05-07-2020 | 17-07-2020 | 0.1.0
