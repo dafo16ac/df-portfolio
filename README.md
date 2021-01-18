@@ -1,12 +1,10 @@
 <h1 align="center"> Portfolio </h1>
 
-I am Davide, graduate in Finance with a background in Philosophy. Due to my passion for data interpretation, I have been autonomously expanding my knowledge in data science and worked as junior data scientist. 
+I am Davide, graduate in Finance with a background in Philosophy. Due to my passion for data interpretation, I am autonomously expanding my knowledge in data science. 
 
 Here is my *Portfolio* with an overview of and respective links to my projects in Data Science - Engineering.
 
-It would be my pleasure to get in contact with you to further discuss ideas and implementation steps. 
-
-Feel free to reach out to me on LinkedIn at [Davide Fogarolo](https://www.linkedin.com/in/davide-fogarolo/).
+It would be my pleasure to get in contact with you to further discuss ideas and implementation steps. Feel free to reach out to me on LinkedIn at [Davide Fogarolo](https://www.linkedin.com/in/davide-fogarolo/).
 
 ## Projects Overview
 | Title | Repository | Topics | Start Date | Latest Update | v.
