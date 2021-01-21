@@ -9,7 +9,7 @@ It would be my pleasure to get in contact with you to further discuss ideas and 
 ## Projects Overview
 | Title | Link | Topics | Start Date | Latest Major Update | v.
 | ----- | ---------- | ------ | ---------- | ------------- | --
-| Market Segmentation with Spectral Clustering | Rendered in nbviewer (recommended): [DS-Market-Segmentation](https://nbviewer.jupyter.org/github/dafo16ac/DS-market-segmentation/blob/main/Part1_DS_Market_Segmentation_v1.0.ipynb) | - Data Preprocessing <br> - Machine Learning: Clustering | 15-01-2019 | 10-01-2021 | 1.0.0
+| Market Segmentation with Spectral Clustering | Rendered in nbviewer: [DS-Market-Segmentation](https://nbviewer.jupyter.org/github/dafo16ac/DS-market-segmentation/blob/main/Part1_DS_Market_Segmentation_v1.0.ipynb) | - Data Preprocessing <br> - Machine Learning: Clustering | 15-01-2019 | 10-01-2021 | 1.0.0
 | Market Segmentation Dashboard | Repository: [business-intelligence-df](https://github.com/dafo16ac/business-intelligence-df) <br> Web application: [business-intelligence-davide](https://business-intelligence-davide.herokuapp.com/)| - Web application production deployment <br> - PostgreSQL engine <br> - Heroku <br> - Friendly GUIs <br> - Python, CSS| 01-02-2019 | 10-01-2021 | 2.2.1
 | Forecasting Luggage Carousel waiting time | TBD | - Data Preprocessing <br> - Machine Learning: XGBoost regression <br> | 28-12-2018 | 12-01-2019 | 0.1.0
 | Live Tweets on Apache Kafka | TBD | - Apache Kafka <br> - Java, Python | 29-07-2020 | 15-08-2020 | 0.1.0
